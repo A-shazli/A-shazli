@@ -8,3 +8,4 @@
 A-shazli/A-shazli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[CV_updated.docx](https://github.com/A-shazli/A-shazli/files/8750421/CV_updated.docx)
