@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah El-Shazli</h1>
 <h3 align="center">Engineering student at Cairo university, SBME Department</h3>
-<img src=https://user-images.githubusercontent.com/61319952/169119046-ce1b897b-9106-4608-80e0-eef8cb83fc14.gif class="img-responsive" style= "align:center;" alt=""> </div>
+<img src=https://user-images.githubusercontent.com/61319952/169119046-ce1b897b-9106-4608-80e0-eef8cb83fc14.gif class="img-responsive" align="center" alt=""> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-shazli&label=Profile%20views&color=0e75b6&style=flat" alt="a-shazli" /> </p>
 
@@ -28,5 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-shazli&" alt="a-shazli" /></p>
 
---->
+
 
