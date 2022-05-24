@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah El-Shazli</h1>
-<h3 align="center">Engineering student at Cairo university, SBME Department</h3>
+<h3 align="center">An engineering student at Cairo university, SBME Department</h3>
 <div align="center"><img src=https://user-images.githubusercontent.com/61319952/169928402-5e61327e-e9fa-4a44-bdb9-499123bc6cfd.gif class="img-responsive" align="center" alt=""> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-shazli&label=Profile%20views&color=0e75b6&style=flat" alt="a-shazli" /> </p>
