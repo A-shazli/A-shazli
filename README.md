@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abdullah.ahmed99@eng-st.cu.edu.eg**
 
-- 📄 Know about my experiences [https://github.com/A-shazli/A-shazli/files/8750421/CV_updated.docx](https://github.com/A-shazli/A-shazli/files/8750421/CV_updated.docx)
+- 📄 Know about my experiences <a href="https://github.com/A-shazli/A-shazli/files/8750421/CV_updated.docx">Email</a>
 
 - ⚡ Fun fact **Can do wheelies (maybe)**
 
@@ -28,4 +28,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-shazli&" alt="a-shazli" /></p>
 
 --->
-[CV_updated.docx](https://github.com/A-shazli/A-shazli/files/8750421/CV_updated.docx)
+
