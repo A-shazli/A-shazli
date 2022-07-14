@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **abdullah.ahmed99@eng-st.cu.edu.eg**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1FopDUQsw1dBHsG2iT2Grg4zVtlmK1CLY/view?usp=sharing" >RESUME</a>
+- 📄 Know about my experiences through my <a href="https://drive.google.com/file/d/1FopDUQsw1dBHsG2iT2Grg4zVtlmK1CLY/view?usp=sharing" >RESUME</a>
 
 - ⚡ Fun fact **Can do wheelies (maybe)**
 
