@@ -6,9 +6,9 @@
 
 
 
-- 📫 How to reach me **abdullah.ahmed99@eng-st.cu.edu.eg**
+- 📫 How to reach me **abdullahshazli18@gmail.com**
 
-- 📄 Know about my experiences through my <a href="https://drive.google.com/file/d/1FopDUQsw1dBHsG2iT2Grg4zVtlmK1CLY/view?usp=sharing" >RESUME</a>
+- 📄 Know about my experiences through my <a href="https://drive.google.com/file/d/1SNTisNQmWveHH2f2yjutv9fv7grkTyTl/view?usp=drive_link" >RESUME</a>
 
 - ⚡ Fun fact **Can do wheelies (maybe)**
 
